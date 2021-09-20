@@ -24,7 +24,15 @@ var questions = [
   {
     question: "Where do I live ?",
     answer: "Pune"
-  } 
+  },
+  {
+    question: "Which city was I born ?",
+    answer: "Dhule"
+  },
+  {
+    question: "Who's my Favourite Superhero ?",
+    answer: "Spiderman"
+  }  
 ];
 
 function welcome(){
